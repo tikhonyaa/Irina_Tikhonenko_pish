@@ -1,0 +1,2 @@
+[console_scripts]
+lab6 = lab6.main:main

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: lab6
+Version: 0.1
+Summary: Описание проекта
+Author: Тихоненко Ирина
+Author-email: your_email@example.com
+Requires-Dist: requests>=2.20.0
+Requires-Dist: numpy>=1.18.0
